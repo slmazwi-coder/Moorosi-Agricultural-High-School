@@ -3,10 +3,8 @@ import { AnimatePresence, motion } from 'motion/react';
 import { ChevronLeft, ChevronRight, Image as ImageIcon } from 'lucide-react';
 
 const slides = [
-  { url: '/assets/hero/hero1.jpg', caption: 'Hands-on Agricultural Learning' },
-  { url: '/assets/hero/hero2.jpg', caption: 'Growing Future Farmers' },
-  { url: '/assets/hero/hero3.jpg', caption: 'Dedicated Educators & Learners' },
-  { url: '/assets/hero/hero4.jpg', caption: 'Invest Through Land' },
+  { url: '/assets/hero/FB_IMG_1780807103989.jpg', caption: 'Hands-on Agricultural Learning' },
+  { url: '/assets/hero/FB_IMG_1780807138747.jpg', caption: 'Growing Future Farmers' },
 ];
 
 export const Hero = () => {
