@@ -302,8 +302,8 @@ export const setApplications = (items: Application[]) => setItems('admin_applica
 
 // Contact
 const defaultContact: ContactInfo = {
-  address: 'Makhoba A/A, Matatiele, Eastern Cape, 4730',
-  phone: '076 403 9098',
+  address: 'Fiva Location, Ludidi A/A, Maluti, 4730',
+  phone: '060 886 2692',
   email: 'mnukwamakhobaahs@gmail.com',
   monThu: '07:30 - 15:30',
   friday: '07:30 - 13:30',
@@ -315,7 +315,7 @@ export const setContact = (info: ContactInfo) => setObject('admin_contact', info
 // About
 const defaultAbout: AboutInfo = {
   historyParagraphs: [
-    'Mnukwa-Makhoba Agricultural High School is a no-fee Quintile 1 public school in Makhoba A/A, Matatiele, Eastern Cape.',
+    'Mnukwa-Makhoba Agricultural High School is a no-fee Quintile 1 public school in Fiva Location, Ludidi A/A, Maluti, 4730.',
     'The school is committed to disciplined learning, community values, and strong academic outcomes.',
     'Parents and guardians are encouraged to engage with the school through meetings, events, and ongoing learner support.',
   ],
