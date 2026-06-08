@@ -29,7 +29,7 @@ export const Gallery = () => {
 
         <h1 className="section-title">Gallery</h1>
         <p className="text-center text-gray-500 max-w-xl mx-auto mb-10 -mt-4">
-          A glimpse into life at Mnukwa-Makhoba AHS — from the fields to the classroom, from harvest day to community sharing.
+          A glimpse into life at Moorosi Agricultural High School — from the fields to the classroom, from harvest day to community sharing.
         </p>
 
         {/* Category filter */}
