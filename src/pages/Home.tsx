@@ -84,7 +84,7 @@ export const Home = () => {
             "Let There Be Production"
           </p>
           <p className="mt-6 text-gray-500 text-lg max-w-2xl mx-auto">
-            A no-fee, Quintile 1 agricultural school in Makhoba A/A, Matatiele, Eastern Cape — 
+            A no-fee, Quintile 1 agricultural school in Fiva Location, Ludidi A/A, Maluti, 4730 — 
             equipping learners with the knowledge and skills to produce, sustain, and thrive.
           </p>
         </div>

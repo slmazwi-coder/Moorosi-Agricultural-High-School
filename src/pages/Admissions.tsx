@@ -296,11 +296,11 @@ export const Admissions = () => {
               <div>
                 <h2 className="text-2xl font-bold">Application for Admission to School</h2>
                 <p className="text-white/70 text-sm mt-1">
-                  Mnukwa-Makhoba Agricultural High School &nbsp;·&nbsp; Makhoba A/A, Matatiele, Eastern Cape 4730
+                  Mnukwa-Makhoba Agricultural High School &nbsp;·&nbsp; Fiva Location, Ludidi A/A, Maluti, 4730
                 </p>
               </div>
               <div className="text-right text-sm text-white/70">
-                <div>Tel: 076 403 9098</div>
+                <div>Tel: 060 886 2692</div>
                 <div>Step {step} of 3</div>
               </div>
             </div>
