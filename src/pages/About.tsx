@@ -39,7 +39,7 @@ export const About = () => {
           >
             {!campusFailed ? (
               <img
-                src="/assets/about/school_building.png"
+                src="/assets/about/FB_IMG_1780807103989.jpg"
                 alt="Moorosi Agricultural High School campus"
                 className="w-full h-full object-cover"
                 onError={() => setCampusFailed(true)}

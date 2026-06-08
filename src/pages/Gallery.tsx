@@ -3,18 +3,11 @@ import { motion, AnimatePresence } from 'motion/react';
 import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const galleryImages = [
-  { src: '/assets/gallery/gallery1.jpg', caption: 'Cabbage harvest — learners showing their produce', category: 'Farming' },
-  { src: '/assets/gallery/gallery2.jpg', caption: 'Urban Vertical Farming display', category: 'Innovation' },
-  { src: '/assets/gallery/gallery3.jpg', caption: 'Potato harvest with the school community', category: 'Farming' },
-  { src: '/assets/gallery/gallery4.jpg', caption: 'Happy harvest day!', category: 'Farming' },
-  { src: '/assets/gallery/gallery5.jpg', caption: 'Staff in school tracksuits', category: 'Staff' },
-  { src: '/assets/gallery/gallery6.jpg', caption: 'Field preparation for planting season', category: 'Farming' },
-  { src: '/assets/gallery/gallery7.jpg', caption: 'Learners planting seeds', category: 'Farming' },
-  { src: '/assets/gallery/gallery8.jpg', caption: 'Large school assembly — our thriving community', category: 'School Life' },
-  { src: '/assets/gallery/gallery9.jpg', caption: 'Potato distribution — sharing our produce', category: 'Community' },
-  { src: '/assets/gallery/gallery10.jpg', caption: 'Students distributing onions and potatoes', category: 'Community' },
-  { src: '/assets/gallery/gallery11.jpg', caption: 'Sorting the potato harvest inside', category: 'Farming' },
-  { src: '/assets/gallery/gallery12.jpg', caption: 'Staff in formal attire — dedicated educators', category: 'Staff' },
+  { src: '/assets/gallery/FB_IMG_1780807072037.jpg', caption: 'School community activities', category: 'School Life' },
+  { src: '/assets/gallery/FB_IMG_1780807079723.jpg', caption: 'Agricultural learning in action', category: 'Farming' },
+  { src: '/assets/gallery/FB_IMG_1780807098410.jpg', caption: 'Learners engaged in farming activities', category: 'Farming' },
+  { src: '/assets/gallery/FB_IMG_1780807103989.jpg', caption: 'School building and grounds', category: 'School Life' },
+  { src: '/assets/gallery/FB_IMG_1780807138747.jpg', caption: 'Harvest day celebrations', category: 'Farming' },
 ];
 
 const categories = ['All', 'Farming', 'Innovation', 'Community', 'Staff', 'School Life'];
