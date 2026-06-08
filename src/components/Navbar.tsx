@@ -25,9 +25,7 @@ export const Navbar = () => {
           <div className="flex items-center justify-between h-16">
             <Link to="/" className="flex items-center gap-3 min-w-0 flex-1">
               <div className="h-11 w-11 shrink-0 rounded-xl bg-white flex items-center justify-center border-2 border-school-green shadow-md overflow-hidden">
-                <div className="h-full w-full bg-school-green flex items-center justify-center">
-                  <span className="text-white font-bold text-lg">M</span>
-                </div>
+                <img src="/assets/FB_IMG_1780807045036.jpg" alt="Moorosi Agricultural High School Logo" className="h-full w-full object-contain" />
               </div>
               <div className="min-w-0">
                 <span className="md:hidden text-sm font-bold text-school-green block leading-tight">Moorosi Agric HS</span>

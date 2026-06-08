@@ -74,8 +74,8 @@ export const Hero = () => {
           transition={{ duration: 0.4, ease: 'easeOut', delay: 0.05 }}
           className="mb-4"
         >
-          <div className="h-24 w-24 mx-auto rounded-full border-4 border-white shadow-2xl bg-school-green flex items-center justify-center">
-            <span className="text-white font-bold text-4xl">M</span>
+          <div className="h-24 w-24 mx-auto rounded-full border-4 border-white shadow-2xl overflow-hidden">
+            <img src="/assets/FB_IMG_1780807045036.jpg" alt="Moorosi Agricultural High School Logo" className="h-full w-full object-contain" />
           </div>
         </motion.div>
         <motion.h1
