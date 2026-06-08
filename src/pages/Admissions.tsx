@@ -273,7 +273,7 @@ export const Admissions = () => {
           </div>
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Application Submitted!</h2>
           <p className="text-gray-600 mb-8">
-            Thank you for applying to Mnukwa-Makhoba Agricultural High School. We have received your application and will be in contact shortly.
+            Thank you for applying to Moorosi Agricultural High School. We have received your application and will be in contact shortly.
           </p>
           <a href="/" className="btn-primary w-full inline-block">Back to Home</a>
         </motion.div>
@@ -296,7 +296,7 @@ export const Admissions = () => {
               <div>
                 <h2 className="text-2xl font-bold">Application for Admission to School</h2>
                 <p className="text-white/70 text-sm mt-1">
-                  Mnukwa-Makhoba Agricultural High School &nbsp;·&nbsp; Fiva Location, Ludidi A/A, Maluti, 4730
+                  Moorosi Agricultural High School &nbsp;·&nbsp; Fiva Location, Ludidi A/A, Maluti, 4730
                 </p>
               </div>
               <div className="text-right text-sm text-white/70">

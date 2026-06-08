@@ -54,7 +54,7 @@ export const StudentLogin = () => {
             <Lock className="text-white" size={28} />
           </div>
           <h1 className="text-2xl font-bold text-white">Student Portal</h1>
-          <p className="text-gray-400 text-sm mt-1">Mnukwa-Makhoba AHS</p>
+          <p className="text-gray-400 text-sm mt-1">Moorosi Agricultural High School</p>
         </div>
 
         <form onSubmit={handleSubmit} className="space-y-5">
